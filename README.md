@@ -1,2 +1,2 @@
-# Scikit-learn-Trials
+# Scikit-learn-Tutorial
 Trying out the different functions from Python ML library Scikit-learn
